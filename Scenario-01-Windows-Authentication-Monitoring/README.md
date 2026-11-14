@@ -7,6 +7,7 @@ The Windows audit policy subcategory override was enabled to ensure advanced aud
 
 ![Audit Policy Override](Evidence/01-audit-policy-subcategory-override.png)
 
+
 ### 2. Account Logon Auditing
 
 Credential Validation and Other Account Logon Events were configured for Success and Failure auditing.
